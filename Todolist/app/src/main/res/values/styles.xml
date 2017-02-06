@@ -1,0 +1,9 @@
+<resources>
+
+
+        <style name="AppTheme" parent="@android:style/Theme.Black">
+            <item name="android:textSize">12sp</item>
+        </style>
+
+
+</resources>
